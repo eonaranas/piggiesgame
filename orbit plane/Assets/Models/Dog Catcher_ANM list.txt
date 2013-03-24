@@ -1,0 +1,13 @@
+
+
+ANM Name			Frames
+
+
+	
+DogCatcher_Run			0 - 20
+
+DogCatcher_Catch		25 - 45
+
+DogCatcher_Fall			55 - 111
+
+DogCatcher_CatchBuster		120 - 240
